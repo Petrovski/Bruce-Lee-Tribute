@@ -1,0 +1,51 @@
+body {
+  border: 17px solid #4d4d4d;
+  padding: 20px auto;
+  margin: 20px auto;
+  background: #ebebe0;
+  width: 90%;
+  border-radius: 20px
+}
+
+h1 {
+  font-family: Passion One;
+  font-size: 120px;
+  color: black;
+  text-align: center;
+  border-bottom: 5px solid;
+}
+
+h2 {
+  font-family: Passion One;
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: Righteous;
+  font-size: 40px;
+  border-left: 6px double;
+  padding-left: 15px;
+  margin-left: 10px;
+}
+
+li {
+  font-family: titillium web;
+}
+
+img {
+  max-width: 90%
+  
+}
+
+div {
+  max-width: 100%
+}
+
+p {
+  font-family: yellowtail;
+  font-size: 30px;
+  text-align: center
+  
+}
